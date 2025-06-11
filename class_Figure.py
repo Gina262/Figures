@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from typing import Union
 
-
 class Figure:
     axes = plt.gca()
 
